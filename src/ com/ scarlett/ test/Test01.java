@@ -7,6 +7,8 @@ public class Test01 {
 		System.out.println("&&&&&&&&&");
 		
 		System.out.println("第一次加代码");
+		
+		System.out.println("第一次加代码");
 	}
 
 }
